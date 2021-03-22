@@ -35,4 +35,4 @@ Expertise was another incentive. AWS Professional Services not only brought a de
 ## The Future
 Fresh from the success of the SAP migration, Origin is now preparing to move its ERP functions of finance, supply chain, procurement and asset management to the AWS cloud with SAP S/4HANA. It expects to gain similar performance, agility and cost-efficiency advantages when it does so.
 
-Click here to learn ![LINK](https://aws.amazon.com/solutions/case-studies/origin-energy/?did=cr_card&trk=cr_card)
+Click here to learn [LINK](https://aws.amazon.com/solutions/case-studies/origin-energy/?did=cr_card&trk=cr_card) more
