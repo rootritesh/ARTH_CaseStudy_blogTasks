@@ -25,4 +25,4 @@ of artificial neural networks (ANN) began with Warren McCulloch and Walter Pitts
 ## The architecture of Neural Network
 The Neural Network consists of Three terms input layer, hidden layer, and Output. You can add more hidden layers for better output but it’ll take more resources to get the accurate output.
 
-
+![NN](https://github.com/rootritesh/ARTH_CaseStudy_blogTasks/blob/master/images/nn1.png)
