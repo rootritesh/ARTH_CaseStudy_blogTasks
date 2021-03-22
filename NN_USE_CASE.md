@@ -26,3 +26,17 @@ of artificial neural networks (ANN) began with Warren McCulloch and Walter Pitts
 The Neural Network consists of Three terms input layer, hidden layer, and Output. You can add more hidden layers for better output but it’ll take more resources to get the accurate output.
 
 ![NN](https://github.com/rootritesh/ARTH_CaseStudy_blogTasks/blob/master/images/nn1.png)
+
+## Applications of Neural Network
+* Speech Recognition
+* Character Recognition
+* Signature Verification.
+* Human face Recognition.
+* and much more.
+
+## How companies using Neural Network.
+Mmm 😅, let takes the examples of e-commerce. there is one company based on e-commerce, so they are using the NN concept to show the recommended products for the user, look we know our choice but by using data we can show only those products to the user which are they most like.
+
+Let’s take one example, let suppose there is one company based on IT Security, So by using the NN concept they can train one model for the detection of virus and malware, or they can also create one model for cyberattacks, and even though by using some more automation tools at the same time they can fix the problems.
+
+Like this is tons of examples……
